@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calmavie-clinic.com/sitemap.xml
+Sitemap: https://calmavieclinic.com/sitemap.xml
