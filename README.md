@@ -1,6 +1,6 @@
-# Calmavie Clinic
+# Calmavie Foot Clinic
 
-Production website for Calmavie Clinic in Hampton.
+Production website for Calmavie Foot Clinic in Hampton.
 
 ## Deployment
 
