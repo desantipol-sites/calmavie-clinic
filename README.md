@@ -8,6 +8,6 @@ Cloudflare Workers deploys the static files in `public/` whenever the `main` bra
 
 - Build command: none
 - Deploy command: `npx wrangler deploy`
-- Production domain: `https://calmavieclinic.com`
+- Production domain: `https://calmavieclinic.co.uk`
 
 The former Surrey Nail Artisan website remains a separate project and is not changed by this repository.
