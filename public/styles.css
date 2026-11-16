@@ -3579,6 +3579,7 @@ a.service-item:focus-visible {
 
 .medical-home-preview .calmavie-brand .calmavie-wordmark small {
   font-size: 0.56rem;
+  padding-left: 2px;
   transition: font-size 220ms ease;
 }
 
@@ -3631,21 +3632,21 @@ a.service-item:focus-visible {
 
 @media (max-width: 820px) {
   .medical-home-preview .site-header {
-    min-height: 94px;
+    min-height: 100px;
   }
 
   .medical-home-preview .calmavie-brand .calmavie-mark {
-    width: 52px;
-    height: 64px;
-    flex-basis: 52px;
+    width: 58px;
+    height: 70px;
+    flex-basis: 58px;
   }
 
   .medical-home-preview .calmavie-brand .calmavie-wordmark strong {
-    font-size: 1.05rem;
+    font-size: 1.28rem;
   }
 
   .medical-home-preview .calmavie-brand .calmavie-wordmark small {
-    font-size: 0.48rem;
+    font-size: 0.5rem;
   }
 
   .medical-home-preview .site-header.is-scrolled {
