@@ -3891,16 +3891,16 @@ body.rebrand-open {
 
 @media (max-width: 520px) {
   .rebrand-notice {
-    align-items: flex-end;
-    padding: 0;
+    padding: 16px;
   }
 
   .rebrand-card {
     width: 100%;
-    max-height: 92vh;
-    padding: 34px 22px calc(22px + env(safe-area-inset-bottom));
-    border-radius: 14px 14px 0 0;
-    transform: translateY(40px);
+    max-height: calc(100vh - 32px);
+    max-height: calc(100dvh - 32px);
+    padding: 34px 22px 24px;
+    border-radius: 10px;
+    transform: translateY(24px);
   }
 
   .rebrand-eyebrow {
